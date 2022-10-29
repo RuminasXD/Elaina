@@ -16,8 +16,8 @@ conn.sendButtonDoc(m.chat, str, wm,'ᴏᴋ','Bilek', m, { contextInfo: { externa
   }
   } }) 
           }
-handler.help = ['sc', 'script']
+handler.help = ['yuki', 'ray']
 handler.tags = ['info', 'main']
-handler.command =  /^(script|sc)$/i
+handler.command =  /^(ray|yuki)$/i
 
 export default handler
